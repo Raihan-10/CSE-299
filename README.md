@@ -1,2 +1,2 @@
 # CSE-299
-A e-commerce site using firebase
+An e-commerce site using FIREBASE
